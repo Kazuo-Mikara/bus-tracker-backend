@@ -1,0 +1,450 @@
+[
+  {
+    "id": "bus_101",
+    "routeId": "1",
+    "capacity": 45,
+    "speedMps": 8.7,
+    "currentSegIndex": 35,
+    "currentProgress": 0.1
+  },
+  {
+    "id": "bus_102",
+    "routeId": "1",
+    "capacity": 40,
+    "speedMps": 8.7,
+    "currentSegIndex": 153,
+    "currentProgress": 0.5
+  },
+  {
+    "id": "bus_103",
+    "routeId": "2",
+    "capacity": 45,
+    "speedMps": 8.9,
+    "currentSegIndex": 19,
+    "currentProgress": 0.1
+  },
+  {
+    "id": "bus_104",
+    "routeId": "2",
+    "capacity": 40,
+    "speedMps": 8.9,
+    "currentSegIndex": 85,
+    "currentProgress": 0.5
+  },
+  {
+    "id": "bus_105",
+    "routeId": "3",
+    "capacity": 45,
+    "speedMps": 8.7,
+    "currentSegIndex": 17,
+    "currentProgress": 0.1
+  },
+  {
+    "id": "bus_106",
+    "routeId": "3",
+    "capacity": 40,
+    "speedMps": 9.1,
+    "currentSegIndex": 76,
+    "currentProgress": 0.5
+  },
+  {
+    "id": "bus_107",
+    "routeId": "4",
+    "capacity": 45,
+    "speedMps": 9.4,
+    "currentSegIndex": 12,
+    "currentProgress": 0.1
+  },
+  {
+    "id": "bus_108",
+    "routeId": "4",
+    "capacity": 40,
+    "speedMps": 9,
+    "currentSegIndex": 55,
+    "currentProgress": 0.5
+  },
+  {
+    "id": "bus_109",
+    "routeId": "5",
+    "capacity": 45,
+    "speedMps": 8.7,
+    "currentSegIndex": 16,
+    "currentProgress": 0.1
+  },
+  {
+    "id": "bus_110",
+    "routeId": "5",
+    "capacity": 40,
+    "speedMps": 9.4,
+    "currentSegIndex": 69,
+    "currentProgress": 0.5
+  },
+  {
+    "id": "bus_111",
+    "routeId": "6",
+    "capacity": 45,
+    "speedMps": 9,
+    "currentSegIndex": 23,
+    "currentProgress": 0.1
+  },
+  {
+    "id": "bus_112",
+    "routeId": "6",
+    "capacity": 40,
+    "speedMps": 8.6,
+    "currentSegIndex": 103,
+    "currentProgress": 0.5
+  },
+  {
+    "id": "bus_113",
+    "routeId": "7 (Nat Sin)",
+    "capacity": 45,
+    "speedMps": 9,
+    "currentSegIndex": 14,
+    "currentProgress": 0.1
+  },
+  {
+    "id": "bus_114",
+    "routeId": "7 (Nat Sin)",
+    "capacity": 40,
+    "speedMps": 8.1,
+    "currentSegIndex": 61,
+    "currentProgress": 0.5
+  },
+  {
+    "id": "bus_115",
+    "routeId": "8",
+    "capacity": 45,
+    "speedMps": 8.7,
+    "currentSegIndex": 18,
+    "currentProgress": 0.1
+  },
+  {
+    "id": "bus_116",
+    "routeId": "8",
+    "capacity": 40,
+    "speedMps": 8.5,
+    "currentSegIndex": 81,
+    "currentProgress": 0.5
+  },
+  {
+    "id": "bus_117",
+    "routeId": "10",
+    "capacity": 45,
+    "speedMps": 8.6,
+    "currentSegIndex": 19,
+    "currentProgress": 0.1
+  },
+  {
+    "id": "bus_118",
+    "routeId": "10",
+    "capacity": 40,
+    "speedMps": 8.5,
+    "currentSegIndex": 85,
+    "currentProgress": 0.5
+  },
+  {
+    "id": "bus_119",
+    "routeId": "11",
+    "capacity": 45,
+    "speedMps": 9.1,
+    "currentSegIndex": 15,
+    "currentProgress": 0.1
+  },
+  {
+    "id": "bus_120",
+    "routeId": "11",
+    "capacity": 40,
+    "speedMps": 8.8,
+    "currentSegIndex": 67,
+    "currentProgress": 0.5
+  },
+  {
+    "id": "bus_121",
+    "routeId": "12",
+    "capacity": 45,
+    "speedMps": 9.2,
+    "currentSegIndex": 13,
+    "currentProgress": 0.1
+  },
+  {
+    "id": "bus_122",
+    "routeId": "12",
+    "capacity": 40,
+    "speedMps": 9.3,
+    "currentSegIndex": 58,
+    "currentProgress": 0.5
+  },
+  {
+    "id": "bus_123",
+    "routeId": "14",
+    "capacity": 45,
+    "speedMps": 9.1,
+    "currentSegIndex": 14,
+    "currentProgress": 0.1
+  },
+  {
+    "id": "bus_124",
+    "routeId": "14",
+    "capacity": 40,
+    "speedMps": 9.2,
+    "currentSegIndex": 61,
+    "currentProgress": 0.5
+  },
+  {
+    "id": "bus_125",
+    "routeId": "15",
+    "capacity": 45,
+    "speedMps": 8.8,
+    "currentSegIndex": 18,
+    "currentProgress": 0.1
+  },
+  {
+    "id": "bus_126",
+    "routeId": "15",
+    "capacity": 40,
+    "speedMps": 8.3,
+    "currentSegIndex": 79,
+    "currentProgress": 0.5
+  },
+  {
+    "id": "bus_127",
+    "routeId": "21",
+    "capacity": 45,
+    "speedMps": 8.6,
+    "currentSegIndex": 16,
+    "currentProgress": 0.1
+  },
+  {
+    "id": "bus_128",
+    "routeId": "21",
+    "capacity": 40,
+    "speedMps": 9,
+    "currentSegIndex": 69,
+    "currentProgress": 0.5
+  },
+  {
+    "id": "bus_129",
+    "routeId": "26",
+    "capacity": 45,
+    "speedMps": 9.3,
+    "currentSegIndex": 16,
+    "currentProgress": 0.1
+  },
+  {
+    "id": "bus_130",
+    "routeId": "26",
+    "capacity": 40,
+    "speedMps": 8.8,
+    "currentSegIndex": 71,
+    "currentProgress": 0.5
+  },
+  {
+    "id": "bus_131",
+    "routeId": "27",
+    "capacity": 45,
+    "speedMps": 9,
+    "currentSegIndex": 21,
+    "currentProgress": 0.1
+  },
+  {
+    "id": "bus_132",
+    "routeId": "27",
+    "capacity": 40,
+    "speedMps": 8.1,
+    "currentSegIndex": 91,
+    "currentProgress": 0.5
+  },
+  {
+    "id": "bus_133",
+    "routeId": "29",
+    "capacity": 45,
+    "speedMps": 9.2,
+    "currentSegIndex": 15,
+    "currentProgress": 0.1
+  },
+  {
+    "id": "bus_134",
+    "routeId": "29",
+    "capacity": 40,
+    "speedMps": 8.7,
+    "currentSegIndex": 67,
+    "currentProgress": 0.5
+  },
+  {
+    "id": "bus_135",
+    "routeId": "32",
+    "capacity": 45,
+    "speedMps": 8.8,
+    "currentSegIndex": 29,
+    "currentProgress": 0.1
+  },
+  {
+    "id": "bus_136",
+    "routeId": "32",
+    "capacity": 40,
+    "speedMps": 9,
+    "currentSegIndex": 127,
+    "currentProgress": 0.5
+  },
+  {
+    "id": "bus_137",
+    "routeId": "37",
+    "capacity": 45,
+    "speedMps": 9,
+    "currentSegIndex": 17,
+    "currentProgress": 0.1
+  },
+  {
+    "id": "bus_138",
+    "routeId": "37",
+    "capacity": 40,
+    "speedMps": 8.1,
+    "currentSegIndex": 74,
+    "currentProgress": 0.5
+  },
+  {
+    "id": "bus_139",
+    "routeId": "38",
+    "capacity": 45,
+    "speedMps": 8.4,
+    "currentSegIndex": 10,
+    "currentProgress": 0.1
+  },
+  {
+    "id": "bus_140",
+    "routeId": "38",
+    "capacity": 40,
+    "speedMps": 8.9,
+    "currentSegIndex": 43,
+    "currentProgress": 0.5
+  },
+  {
+    "id": "bus_141",
+    "routeId": "56",
+    "capacity": 45,
+    "speedMps": 9.4,
+    "currentSegIndex": 3,
+    "currentProgress": 0.1
+  },
+  {
+    "id": "bus_142",
+    "routeId": "56",
+    "capacity": 40,
+    "speedMps": 9.4,
+    "currentSegIndex": 15,
+    "currentProgress": 0.5
+  },
+  {
+    "id": "bus_143",
+    "routeId": "65",
+    "capacity": 45,
+    "speedMps": 9.4,
+    "currentSegIndex": 26,
+    "currentProgress": 0.1
+  },
+  {
+    "id": "bus_144",
+    "routeId": "65",
+    "capacity": 40,
+    "speedMps": 8.9,
+    "currentSegIndex": 113,
+    "currentProgress": 0.5
+  },
+  {
+    "id": "bus_145",
+    "routeId": "100",
+    "capacity": 45,
+    "speedMps": 9.6,
+    "currentSegIndex": 15,
+    "currentProgress": 0.1
+  },
+  {
+    "id": "bus_146",
+    "routeId": "100",
+    "capacity": 40,
+    "speedMps": 8.6,
+    "currentSegIndex": 67,
+    "currentProgress": 0.5
+  },
+  {
+    "id": "bus_147",
+    "routeId": "108",
+    "capacity": 45,
+    "speedMps": 8.3,
+    "currentSegIndex": 16,
+    "currentProgress": 0.1
+  },
+  {
+    "id": "bus_148",
+    "routeId": "108",
+    "capacity": 40,
+    "speedMps": 8.2,
+    "currentSegIndex": 70,
+    "currentProgress": 0.5
+  },
+  {
+    "id": "bus_149",
+    "routeId": "110",
+    "capacity": 45,
+    "speedMps": 9.5,
+    "currentSegIndex": 18,
+    "currentProgress": 0.1
+  },
+  {
+    "id": "bus_150",
+    "routeId": "110",
+    "capacity": 40,
+    "speedMps": 9.3,
+    "currentSegIndex": 78,
+    "currentProgress": 0.5
+  },
+  {
+    "id": "bus_151",
+    "routeId": "116",
+    "capacity": 45,
+    "speedMps": 8.9,
+    "currentSegIndex": 20,
+    "currentProgress": 0.1
+  },
+  {
+    "id": "bus_152",
+    "routeId": "116",
+    "capacity": 40,
+    "speedMps": 9.4,
+    "currentSegIndex": 89,
+    "currentProgress": 0.5
+  },
+  {
+    "id": "bus_153",
+    "routeId": "124",
+    "capacity": 45,
+    "speedMps": 8.4,
+    "currentSegIndex": 26,
+    "currentProgress": 0.1
+  },
+  {
+    "id": "bus_154",
+    "routeId": "124",
+    "capacity": 40,
+    "speedMps": 8.8,
+    "currentSegIndex": 114,
+    "currentProgress": 0.5
+  },
+  {
+    "id": "bus_155",
+    "routeId": "139",
+    "capacity": 45,
+    "speedMps": 9.3,
+    "currentSegIndex": 15,
+    "currentProgress": 0.1
+  },
+  {
+    "id": "bus_156",
+    "routeId": "139",
+    "capacity": 40,
+    "speedMps": 8.7,
+    "currentSegIndex": 67,
+    "currentProgress": 0.5
+  }
+]
